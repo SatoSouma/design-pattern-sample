@@ -1,5 +1,5 @@
-import { PrintBanner } from "./2/PrintBanner";
-import { Print } from "./2/Print";
+import { PrintBanner } from "./sample2/PrintBanner";
+import { Print } from "./sample2/Print";
 
 /**
  * ここで重要なのは、Mainは Printインターフェースを使用して実装しており、showWithParen showWithAster は全く見えていないと言う事です。
